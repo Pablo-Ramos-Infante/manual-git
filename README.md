@@ -1,9 +1,6 @@
 # manual-git
 manual-git
 
-cat > README.md << 'EOF'
-# manual-git
-
 **Autor:**Pablo
 
 ## Índice
