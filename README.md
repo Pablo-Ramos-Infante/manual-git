@@ -1,7 +1,7 @@
 # manual-git
 manual-git
 
-**Autor:**Pablo
+Autor: Pablo Ramos Infante
 
 ## Índice
 - Introducción
